@@ -1,0 +1,163 @@
+[
+    
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "category": "Clothing",
+        "price": 20,
+        "desc": "Soft cotton t-shirt",
+        "image": "https://chriscross.in/cdn/shop/files/ChrisCrossRoyalblueCottontshirtmen.jpg?v=1740994595"
+    },
+    {
+        "id": 2,
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 40,
+        "desc": "Slim fit jeans",
+        "image": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 3,
+        "name": "Sneakers",
+        "category": "Footwear",
+        "price": 60,
+        "desc": "Comfortable sneakers",
+        "image": "https://www.jiomart.com/images/product/original/rvujjpnmzk/world-wear-footwear-new-latest-affordable-range-of-trendy-sports-running-shoes-for-men-product-images-rvujjpnmzk-0-202407151823.jpg?im=Resize=(500,630)"
+    },
+    {
+        "id": 4,
+        "name": "Watch",
+        "category": "Accessories",
+        "price": 80,
+        "desc": "Stylish wristwatch",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20231115/jEEw/6554dbafddf779151980d579/-473Wx593H-469457004-blue-MODEL.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hat",
+        "category": "Accessories",
+        "price": 15,
+        "desc": "Casual cap",
+        "image": "https://images.unsplash.com/photo-1559563458-527698bf5295?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Jacket",
+        "category": "Clothing",
+        "price": 120,
+        "desc": "Winter jacket",
+        "image": "https://www.stormtech.ca/cdn/shop/files/AFP-2_FRONT_HOOD_UP_Navy_Graphite.jpg?v=1736897889"
+    },
+    {
+        "id": 7,
+        "name": "Boots",
+        "category": "Footwear",
+        "price": 90,
+        "desc": "Leather boots",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 50,
+        "desc": "Spacious backpack",
+        "image": "https://images.unsplash.com/photo-1616627451662-2f5c2ea1fd68?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 9,
+        "name": "Socks",
+        "category": "Clothing",
+        "price": 10,
+        "desc": "Pack of socks",
+        "image": "https://images.unsplash.com/photo-1616394587234-23a8ce0e4c48?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Sandals",
+        "category": "Footwear",
+        "price": 30,
+        "desc": "Beach sandals",
+        "image": "https://images.unsplash.com/photo-1598514982844-8e983eac5a5e?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Shirt",
+        "category": "Clothing",
+        "price": 35,
+        "desc": "Formal shirt",
+        "image": "https://images.unsplash.com/photo-1556909212-d3f251cdd861?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Scarf",
+        "category": "Accessories",
+        "price": 25,
+        "desc": "Woolen scarf",
+        "image": "https://images.unsplash.com/photo-1542060748-10c28b62716e?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 13,
+        "name": "Sweater",
+        "category": "Clothing",
+        "price": 60,
+        "desc": "Warm sweater",
+        "image": "https://images.unsplash.com/photo-1574182245822-9d04ed8d2be0?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 14,
+        "name": "Loafers",
+        "category": "Footwear",
+        "price": 70,
+        "desc": "Classic loafers",
+        "image": "https://images.unsplash.com/photo-1584603848402-6042f3f31d71?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 15,
+        "name": "Belt",
+        "category": "Accessories",
+        "price": 20,
+        "desc": "Leather belt",
+        "image": "https://images.unsplash.com/photo-1603252109303-cd752b2c979e?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 16,
+        "name": "Polo Shirt",
+        "category": "Clothing",
+        "price": 28,
+        "desc": "Polo cotton shirt",
+        "image": "https://images.unsplash.com/photo-1618354575974-6614cd4c777f?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 17,
+        "name": "Flip Flops",
+        "category": "Footwear",
+        "price": 18,
+        "desc": "Casual flip flops",
+        "image": "https://images.unsplash.com/photo-1600180758559-2f1f37b8ef84?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 18,
+        "name": "Beanie",
+        "category": "Accessories",
+        "price": 12,
+        "desc": "Knitted beanie",
+        "image": "https://images.unsplash.com/photo-1597094637403-d65dff53906b?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 19,
+        "name": "Raincoat",
+        "category": "Clothing",
+        "price": 55,
+        "desc": "Waterproof raincoat",
+        "image": "https://images.unsplash.com/photo-1604430359183-d44c10d1723c?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+        "id": 20,
+        "name": "Dress Shoes",
+        "category": "Footwear",
+        "price": 110,
+        "desc": "Formal dress shoes",
+        "image": "https://images.unsplash.com/photo-1555529669-e69f2d546bcd?auto=format&fit=crop&w=400&q=80"
+    }
+]
